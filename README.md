@@ -1,2 +1,11 @@
 # -Logistic-regression-model-on-the-data-at-adultUCI
-linear regression model for the miles per gallon on the data at automobile [UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/).  Discard the categorical data.  >1. Analyze the data to get relevant insight. >1. Get feature matrix X, and target variable y. >1. Split data into training and testing. >1. Normalize data using MinMaxScaler. >1. Creat a LinearRegression object for modeling. >1. Train the model with training data. >1. Look at R^2 score for the goodness of fit for the train and test data. >1. Present a graphical comparison of true and observed responses for the test data. 
+linear regression model for the miles per gallon on the data at automobile [UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/).  
+Discard the categorical data.  
+Analyze the data to get relevant insight.
+Get feature matrix X, and target variable y.
+Split data into training and testing.
+Normalize data using MinMaxScaler.
+Creat a LinearRegression object for modeling. 
+Train the model with training data.
+Look at R^2 score for the goodness of fit for the train and test data. 
+Present a graphical comparison of true and observed responses for the test data. 
